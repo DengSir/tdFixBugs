@@ -1,0 +1,8 @@
+## Interface: 70100
+## Title: tdFixBugs_BindingUI
+## Author: DengSir
+## Version: 70100.01
+## LoadOnDemand: 1
+## LoadWith: Blizzard_BindingUI
+
+..\tdFixBugs\BindingUI.lua
