@@ -1,8 +1,0 @@
-## Interface: 70100
-## Title: tdFixBugs_Scrap
-## Author: DengSir
-## Version: 70100.01
-## LoadOnDemand: 1
-## LoadWith: Scrap_Merchant
-
-..\tdFixBugs\Scrap.lua

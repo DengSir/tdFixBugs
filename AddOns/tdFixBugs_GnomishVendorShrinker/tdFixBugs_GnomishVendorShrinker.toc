@@ -1,9 +1,0 @@
-## Interface: 70100
-## Title: tdFixBugs_GnomishVendorShrinker
-## Author: DengSir
-## Version: 70100.01
-## Dependencies: GnomishVendorShrinker
-## LoadManagers: AddonLoader
-## X-LoadOn-Merchant: true
-
-..\tdFixBugs\GnomishVendorShrinker.lua

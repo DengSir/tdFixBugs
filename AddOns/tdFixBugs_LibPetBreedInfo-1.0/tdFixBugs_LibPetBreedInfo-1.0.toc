@@ -1,7 +1,0 @@
-## Interface: 70100
-## Title: tdFixBugs_LibPetBreedInfo-1.0
-## Author: DengSir
-## Version: 70100.01
-
-..\LibPetBreedInfo-1.0\LibPetBreedInfo-1.0.lua
-..\tdFixBugs\LibPetBreedInfo-1.0.lua

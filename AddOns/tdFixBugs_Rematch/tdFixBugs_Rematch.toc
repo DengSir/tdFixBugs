@@ -1,7 +1,0 @@
-## Interface: 70100
-## Title: tdFixBugs_Rematch
-## Author: DengSir
-## Version: 70100.01
-## Dependencies: Rematch
-
-..\tdFixBugs\Rematch.lua

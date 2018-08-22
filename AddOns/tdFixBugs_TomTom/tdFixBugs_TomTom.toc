@@ -1,7 +1,0 @@
-## Interface: 70100
-## Title: tdFixBugs_TomTom
-## Author: DengSir
-## Version: 70100.01
-## Dependencies: TomTom
-
-..\tdFixBugs\TomTom.lua

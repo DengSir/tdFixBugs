@@ -1,7 +1,0 @@
-## Interface: 70100
-## Title: tdFixBugs_AngryWorldQuests
-## Author: DengSir
-## Version: 70100.01
-## Dependencies: AngryWorldQuests
-
-..\tdFixBugs\AngryWorldQuests.lua

@@ -2,5 +2,4 @@
 ## Title: tdFixBugs
 ## Author: DengSir
 
-TimerTracker.lua
 WorldMap.lua
