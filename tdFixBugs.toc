@@ -2,5 +2,4 @@
 ## Title: tdFixBugs
 ## Author: DengSir
 
-WorldMap.lua
-Guild.lua
+MonkeyQuest.lua
